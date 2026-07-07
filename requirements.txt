@@ -1,0 +1,5 @@
+pinecone 
+pinecone-text
+pinecone-notebooks
+langchain_pinecone
+pinecone_client
